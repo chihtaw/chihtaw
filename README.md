@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Chih-Ta Wang 👋
 
-<!--
-**chihtaw/chihtaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Software Engineer specializing in high-performance scientific computing.
 
-Here are some ideas to get you started:
+I develop high-performance numerical software with modern C++, CUDA, and Kokkos, with a focus on Computational Fluid Dynamics (CFD), GPU optimization, and scalable scientific computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+- High-performance CFD software
+- GPU kernel optimization
+- Numerical methods for PDEs
+- Modern C++ software architecture
+- Performance profiling and optimization
+- Heterogeneous computing (CPU/GPU)
+
+## Open-source Contributions
+
+### NeoFOAM
+Platform-portable finite-volume CFD software
+
+- Performance profiling
+- Documentation
+- Continuous integration on NVIDIA and AMD GPUs
+- Improve configuration of NeoN as a backend
+
+### NeoN
+Platform-portable high-performance CFD framework
+
+- Mesh generators
+- Documentation
+- Continuous integration on NVIDIA and AMD GPUs
+
+## Technical Skills
+
+**Languages**
+
+- C++
+- CUDA
+- Python
+- Fortran
+
+**Libraries**
+
+- Kokkos
+- OpenMP
+- MPI
+- CMake
+
+**Tools**
+
+- Git
+- Nsight Systems
+- Nsight Compute
+- Linux
+
+## Research Interests
+
+- GPU-accelerated numerical methods
+- Computational fluid dynamics
+- Scientific software engineering
+- High-performance computing
+
+📫 Feel free to connect or discuss scientific computing and HPC.
