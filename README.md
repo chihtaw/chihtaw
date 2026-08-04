@@ -1,8 +1,8 @@
 # Hi, I'm Chih-Ta Wang 👋
 
-Research Software Engineer specializing in **high-performance scientific computing**, **Computational Fluid Dynamics (CFD)**, and **GPU programming**.
+Research Software Engineer specializing in **high-performance computing (HPC)**, **Computational Fluid Dynamics (CFD)**, and **GPU programming**.
 
-I develop scalable numerical software using **Modern C++**, **CUDA**, and **Kokkos**, with a focus on designing efficient algorithms and optimizing computational kernels for heterogeneous CPU/GPU systems. My interests lie at the intersection of **scientific software engineering**, **numerical methods**, and **high-performance computing**.
+I develop high-performance CFD software using **Modern C++**, **CUDA**, and **Kokkos**, with a focus on designing efficient algorithms and optimizing computational kernels for heterogeneous CPU/GPU systems. My interests lie at the intersection of **HPC**, **CFD**, **scientific software engineering**, and **numerical methods**.
 
 ---
 
