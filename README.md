@@ -2,134 +2,158 @@
 
 Research Software Engineer specializing in **high-performance scientific computing**, **Computational Fluid Dynamics (CFD)**, and **GPU programming**.
 
-I develop high-performance CFD software using **Modern C++**, **CUDA**, and **Kokkos**, with a focus on designing efficient algorithms and optimizing computational kernels for heterogeneous CPU/GPU systems.
+I develop scalable numerical software using **Modern C++**, **CUDA**, and **Kokkos**, with a focus on designing efficient algorithms and optimizing computational kernels for heterogeneous CPU/GPU systems. My interests lie at the intersection of **scientific software engineering**, **numerical methods**, and **high-performance computing**.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Research Software Engineer at the **Technical University of Munich**
-- 💻 Contributor to the open-source **NeoFOAM** and **NeoN** projects
-- ⚡ Passionate about scientific software engineering, GPU optimization, and performance engineering
-- 🔬 Interested in numerical methods for PDEs and high-performance computing
-- 🌱 Currently developing a mesh ordering framework to improve GPU-oriented matrix assembly and linear solver in CFD solvers
+* 🔭 Research Software Engineer at the **Technical University of Munich**
+* 💻 Contributor to the open-source **NeoFOAM** and **NeoN** projects
+* ⚡ Passionate about scientific software engineering, GPU optimization, and performance engineering
+* 🔬 Conducting research on GPU-oriented matrix assembly optimization for finite-volume CFD solvers
+* 🌱 Continuously learning modern C++ design and scalable software architecture for scientific computing
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Open-Source Contributions
 
-### 🚀 NeoFOAM
-Platform-portable CFD solvers for heterogeneous computing.
+### NeoFOAM
+
+A platform-portable CFD framework designed for heterogeneous computing.
 
 My contributions include:
 
-- Performance profiling fluid flow solvers using Kokkos Tools
-- Documentation
-- Continuous integration on GPUs
-- Code review and development
+* Integrating **Kokkos Tools** for performance profiling and debugging
+* Profiling CFD solvers to identify computational bottlenecks
+* Improving project documentation
+* Contributing features through code review and collaborative development
 
 ---
 
-### ⚙️ NeoN
-Platform-portable high-performance CFD library.
+### NeoN
+
+A platform-portable numerical library for scientific computing.
 
 My contributions include:
 
-- Uniform mesh generators
-- Continuous Integration on GPUs
-- Documentation
-- Bug fixes and code review
+* Establishing continuous integration workflows on **NVIDIA** and **AMD** GPU platforms
+* Developing uniform mesh generators
+* Fixing numerical software issues
+* Improving documentation and project maintainability
 
 ---
 
-### 🔥 CUDA Finite-Volume Diffusion Solver
+## 🔬 Research Experience
 
-A research-oriented CUDA C++ implementation of a finite-volume diffusion solver developed to investigate GPU-oriented matrix assembly performance.
+### GPU Matrix Assembly Optimization
+
+**Research Software Engineer**
+*Technical University of Munich*
+
+Investigating GPU-oriented matrix assembly techniques for finite-volume CFD solvers by studying
+
+* mesh renumbering algorithms
+* GPU kernel execution strategies
+* computational kernel optimization
+* performance profiling and analysis
+
+---
+
+### GPU-Accelerated Population Balance Solver
+
+**Master's Thesis**
+*Helmholtz-Zentrum Dresden-Rossendorf*
+
+Developed a CUDA-accelerated implementation of the Population Balance Equation within OpenFOAM for CFD simulations of polydisperse multiphase flows.
 
 Highlights:
 
-- GPU-oriented matrix assembly
-- Mesh face renumbering
-- Multiple GPU kernel execution strategies
-- Performance benchmarking
+* GPU-oriented implementation of numerical algorithms
+* Profile-driven performance optimization
+* Scientific software development within the OpenFOAM framework
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Technical Expertise
 
-### Languages
+### Programming Languages
 
-- C++
-- CUDA
-- Python
-- Fortran
-- Bash
+* Modern C++
+* CUDA
+* Python
+* Fortran
+* Bash
 
-### Parallel Computing
+### High-Performance Computing
 
-- CUDA
-- Kokkos
-- OpenMP
-- MPI
+* CUDA
+* Kokkos
+* OpenMP
+* MPI
 
 ### Scientific Computing
 
-- Computational Fluid Dynamics
-- Finite Volume Method
-- Numerical Methods
-- OpenFOAM
+* Computational Fluid Dynamics (CFD)
+* Finite Volume Method (FVM)
+* Numerical Methods for PDEs
+* OpenFOAM
 
-### Development Tools
+### Software Engineering
 
-- Git
-- CMake
-- Linux
-- Docker
+* CMake
+* Git
+* GitHub Actions
+* Continuous Integration
+* Linux
+* Docker
 
-### Performance Analysis Tools
+### Performance Engineering
 
-- NVIDIA Nsight Systems
-- NVIDIA Nsight Compute
-- Kokkos Tools
+* NVIDIA Nsight Systems
+* NVIDIA Nsight Compute
+* Kokkos Tools
+* Performance Profiling
 
 ---
 
 ## 🌱 Current Focus
 
-I'm currently exploring:
+I'm currently working on:
 
-- GPU-oriented mesh renumbering algorithms
-- Matrix assembly optimization
-- Modern C++20 software architecture
-- Performance engineering for CFD solvers
-- Scalable scientific software design
+* Designing a mesh renumbering framework for NeoFOAM
+* GPU matrix assembly optimization
+* Modern C++20 software architecture
+* Performance engineering for CFD solvers
+* Scalable scientific software design
 
 ---
 
 ## 🔬 Research Interests
 
-- High-Performance Computing (HPC)
-- Computational Fluid Dynamics (CFD)
-- GPU Computing
-- Numerical Methods for PDEs
-- Scientific Software Engineering
-- Performance Optimization
-- Modern C++
-- Heterogeneous Computing
+* High-Performance Computing (HPC)
+* Scientific Software Engineering
+* Computational Fluid Dynamics (CFD)
+* GPU Programming
+* Numerical Methods
+* Performance Optimization
+* Heterogeneous Computing
+* Modern C++
 
 ---
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&theme=github_dark&hide_border=true)
+<!-- Replace <username> with your GitHub username -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_username>&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<chihtaw>\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<chihtaw>\&layout=compact\&theme=github_dark\&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with Me
 
-- 📫 Email: wangchihta@gmail.com
+* 📫 Email: wangchihta@gmail.com
 
-Thanks for visiting my profile!
-Feel free to explore my repositories or reach out to discuss scientific computing, HPC, or modern C++.
+I'm always interested in discussing scientific computing, high-performance computing, modern C++, and GPU programming. Feel free to reach out or explore my repositories.
