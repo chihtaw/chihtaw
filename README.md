@@ -122,13 +122,23 @@ Highlights:
 
 ## 🌱 Current Focus
 
-I'm currently working on:
+### Designing
 
-* Designing a mesh renumbering framework for NeoFOAM
-* GPU matrix assembly optimization
+A modular **mesh renumbering framework** for NeoFOAM that provides a unified interface for implementing and evaluating different mesh renumbering algorithms.
+
+### Engineering Approach
+
 * Modern C++20 software architecture
-* Performance engineering for CFD solvers
-* Scalable scientific software design
+* Extensible and maintainable framework design
+* Performance-portable integration with the NeoFOAM ecosystem
+
+### Research Goal
+
+Investigating how mesh renumbering influences
+
+* Matrix assembly performance on GPU
+* Linear solver performance on GPU
+* Overall efficiency of finite-volume CFD solvers
 
 ---
 
