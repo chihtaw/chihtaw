@@ -93,7 +93,6 @@ Highlights:
 * CUDA
 * Kokkos
 * OpenMP
-* MPI
 
 ### Scientific Computing
 
