@@ -10,7 +10,7 @@ I develop high-performance CFD software using **modern C++**, **CUDA**, and **Ko
 
 * 🔭 Research Software Engineer at the **Technical University of Munich**
 * 💻 Contributor to the open-source **NeoFOAM** and **NeoN** projects
-* ⚡ Passionate about scientific software engineering, GPU optimization, and performance engineering
+* ⚡ Passionate about CFD, HPC, and scientific software engineering
 * 🔬 Conducting research on GPU-oriented matrix assembly optimization for finite-volume CFD solvers
 * 🌱 Continuously learning modern C++ design and scalable software architecture for scientific computing
 
