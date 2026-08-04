@@ -1,63 +1,135 @@
 # Hi, I'm Chih-Ta Wang 👋
 
-Research Software Engineer specializing in high-performance scientific computing.
+Research Software Engineer specializing in **high-performance scientific computing**, **Computational Fluid Dynamics (CFD)**, and **GPU programming**.
 
-I develop high-performance numerical software with modern C++, CUDA, and Kokkos, with a focus on Computational Fluid Dynamics (CFD), GPU optimization, and scalable scientific computing.
+I develop high-performance CFD software using **Modern C++**, **CUDA**, and **Kokkos**, with a focus on designing efficient algorithms and optimizing computational kernels for heterogeneous CPU/GPU systems.
 
-## Current Interests
+---
 
-- High-performance CFD software
-- GPU kernel optimization
-- Numerical methods for PDEs
-- Modern C++ software architecture
-- Performance profiling and optimization
-- Heterogeneous computing (CPU/GPU)
+## 🚀 About Me
 
-## Open-source Contributions
+- 🔭 Research Software Engineer at the **Technical University of Munich**
+- 💻 Contributor to the open-source **NeoFOAM** and **NeoN** projects
+- ⚡ Passionate about scientific software engineering, GPU optimization, and performance engineering
+- 🔬 Interested in numerical methods for PDEs and high-performance computing
+- 🌱 Currently developing a mesh ordering framework to improve GPU-oriented matrix assembly and linear solver in CFD solvers
 
-### NeoFOAM
-Platform-portable finite-volume CFD software
+---
 
-- Performance profiling
+## 📌 Featured Projects
+
+### 🚀 NeoFOAM
+Platform-portable CFD solvers for heterogeneous computing.
+
+My contributions include:
+
+- Performance profiling fluid flow solvers using Kokkos Tools
 - Documentation
-- Continuous integration on NVIDIA and AMD GPUs
-- Improve configuration of NeoN as a backend
+- Continuous integration on GPUs
+- Code review and development
 
-### NeoN
-Platform-portable high-performance CFD framework
+---
 
-- Mesh generators
+### ⚙️ NeoN
+Platform-portable high-performance CFD library.
+
+My contributions include:
+
+- Uniform mesh generators
+- Continuous Integration on GPUs
 - Documentation
-- Continuous integration on NVIDIA and AMD GPUs
+- Bug fixes and code review
 
-## Technical Skills
+---
 
-**Languages**
+### 🔥 CUDA Finite-Volume Diffusion Solver
+
+A research-oriented CUDA C++ implementation of a finite-volume diffusion solver developed to investigate GPU-oriented matrix assembly performance.
+
+Highlights:
+
+- GPU-oriented matrix assembly
+- Mesh face renumbering
+- Multiple GPU kernel execution strategies
+- Performance benchmarking
+
+---
+
+## 🛠 Technical Stack
+
+### Languages
 
 - C++
 - CUDA
 - Python
 - Fortran
+- Bash
 
-**Libraries**
+### Parallel Computing
 
+- CUDA
 - Kokkos
 - OpenMP
 - MPI
-- CMake
 
-**Tools**
+### Scientific Computing
+
+- Computational Fluid Dynamics
+- Finite Volume Method
+- Numerical Methods
+- OpenFOAM
+
+### Development Tools
 
 - Git
-- Nsight Systems
-- Nsight Compute
+- CMake
 - Linux
+- Docker
 
-## Research Interests
+### Performance Analysis Tools
 
-- GPU-accelerated numerical methods
-- Computational fluid dynamics
-- Scientific software engineering
-- High-performance computing
+- NVIDIA Nsight Systems
+- NVIDIA Nsight Compute
+- Kokkos Tools
 
-📫 Feel free to connect or discuss scientific computing and HPC.
+---
+
+## 🌱 Current Focus
+
+I'm currently exploring:
+
+- GPU-oriented mesh renumbering algorithms
+- Matrix assembly optimization
+- Modern C++20 software architecture
+- Performance engineering for CFD solvers
+- Scalable scientific software design
+
+---
+
+## 🔬 Research Interests
+
+- High-Performance Computing (HPC)
+- Computational Fluid Dynamics (CFD)
+- GPU Computing
+- Numerical Methods for PDEs
+- Scientific Software Engineering
+- Performance Optimization
+- Modern C++
+- Heterogeneous Computing
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_username>&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 Email: wangchihta@gmail.com
+
+Thanks for visiting my profile!
+Feel free to explore my repositories or reach out to discuss scientific computing, HPC, or modern C++.
