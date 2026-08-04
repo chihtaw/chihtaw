@@ -39,7 +39,7 @@ Together, they provide a modern software stack for developing scalable CFD appli
 - Integrated Kokkos Tools for performance profiling and debugging
 - Profiled CFD solvers to identify computational bottlenecks
 - Improved build robustness by resolving CMake integration issues of NeoN
-- Currently developing a mesh renumbering framework for GPU-oriented matrix assembly
+- Currently developing a mesh renumbering framework for maximizing GPU memory locality
 
 ### NeoN
 
