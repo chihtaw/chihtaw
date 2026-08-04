@@ -85,10 +85,8 @@ Highlights:
 ### Programming Languages
 
 * Modern C++
-* CUDA
 * Python
 * Fortran
-* Bash
 
 ### High-Performance Computing
 
@@ -113,7 +111,7 @@ Highlights:
 * Linux
 * Docker
 
-### Performance Engineering
+### Performance Analysis
 
 * NVIDIA Nsight Systems
 * NVIDIA Nsight Compute
