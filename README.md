@@ -143,13 +143,13 @@ Investigating how mesh renumbering influences
 
 ## 🔬 Research Interests
 
-* High-Performance Computing (HPC)
-* Scientific Software Engineering
 * Computational Fluid Dynamics (CFD)
+* High-Performance Computing (HPC)
 * GPU Programming
-* Numerical Methods
 * Performance Optimization
 * Heterogeneous Computing
+* Numerical Methods
+* Scientific Software Engineering
 * Modern C++
 
 ---
