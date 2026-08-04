@@ -69,12 +69,13 @@ Investigating GPU-oriented matrix assembly techniques for finite-volume CFD solv
 **Master's Thesis**
 *Helmholtz-Zentrum Dresden-Rossendorf*
 
-Developed a CUDA-accelerated implementation of the Population Balance Equation within OpenFOAM for CFD simulations of polydisperse multiphase flows.
+Developed a GPU-accelerated solution of the Population Balance Equation within OpenFOAM for CFD simulations of polydisperse multiphase flows.
 
 Highlights:
 
-* GPU-oriented implementation of numerical algorithms using CUDA C++
-* Profile-driven performance optimization 
+* GPU-oriented implementation of numerical algorithms
+* Profile-driven performance optimization
+* Performance analysis and benchmarking
 * Scientific software development within the OpenFOAM framework
 
 ---
