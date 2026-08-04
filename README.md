@@ -18,29 +18,32 @@ I develop scalable numerical software using **Modern C++**, **CUDA**, and **Kokk
 
 ## 🚀 Open-Source Contributions
 
+I contribute to the NeoFOAM ecosystem, an open-source framework for high-performance Computational Fluid Dynamics (CFD).
+
+The project consists of two complementary components:
+
+NeoN — a performance-portable CFD library providing numerical methods, data structures, and parallel abstractions for heterogeneous CPU/GPU systems using Kokkos and Ginkgo.
+NeoFOAM — a CFD framework built on top of NeoN where fluid flow solvers and applications are implemented.
+
+Together, they provide a modern software stack for developing scalable CFD applications across diverse hardware architectures.
+
+### Across NeoFOAM and NeoN
+
+- Established continuous integration workflows on NVIDIA and AMD GPU platforms
+- Improved project documentation and user guides
+- Participated in code reviews and collaborative software development
+
 ### NeoFOAM
 
-A platform-portable CFD framework designed for heterogeneous computing.
-
-My contributions include:
-
-* Integrating **Kokkos Tools** for performance profiling and debugging
-* Profiling CFD solvers to identify computational bottlenecks
-* Improving project documentation
-* Contributing features through code review and collaborative development
-
----
+- Integrated Kokkos Tools for performance profiling and debugging
+- Profiled CFD solvers to identify computational bottlenecks
+- Improved build robustness by resolving CMake integration issues of NeoN
+- Currently developing a mesh renumbering framework for GPU-oriented matrix assembly
 
 ### NeoN
 
-A platform-portable numerical library for scientific computing.
-
-My contributions include:
-
-* Establishing continuous integration workflows on **NVIDIA** and **AMD** GPU platforms
-* Developing uniform mesh generators
-* Fixing numerical software issues
-* Improving documentation and project maintainability
+- Developed uniform mesh generators
+- Fixed numerical software issues and improved maintainability
 
 ---
 
