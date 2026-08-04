@@ -2,7 +2,7 @@
 
 Research Software Engineer specializing in **high-performance computing (HPC)**, **Computational Fluid Dynamics (CFD)**, and **GPU programming**.
 
-I develop high-performance CFD software using **Modern C++**, **CUDA**, and **Kokkos**, with a focus on designing efficient algorithms and optimizing computational kernels for heterogeneous CPU/GPU systems. My interests lie at the intersection of **HPC**, **CFD**, **scientific software engineering**, and **numerical methods**.
+I develop high-performance CFD software using **modern C++**, **CUDA**, and **Kokkos**, with a focus on designing efficient algorithms and optimizing computational kernels for heterogeneous CPU/GPU systems. My interests lie at the intersection of **HPC**, **CFD**, **scientific software engineering**, and **numerical methods**.
 
 ---
 
