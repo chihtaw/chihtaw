@@ -22,8 +22,9 @@ I contribute to the NeoFOAM ecosystem, an open-source framework for high-perform
 
 The project consists of two complementary components:
 
-NeoN — a performance-portable CFD library providing numerical methods, data structures, and parallel abstractions for heterogeneous CPU/GPU systems using Kokkos and Ginkgo.
-NeoFOAM — a CFD framework built on top of NeoN where fluid flow solvers and applications are implemented.
+**NeoN** — a performance-portable CFD library providing numerical methods, data structures, and parallel abstractions for heterogeneous CPU/GPU systems using Kokkos and Ginkgo.
+
+**NeoFOAM** — a CFD framework built on top of NeoN where fluid flow solvers and applications are implemented.
 
 Together, they provide a modern software stack for developing scalable CFD applications across diverse hardware architectures.
 
@@ -72,8 +73,8 @@ Developed a CUDA-accelerated implementation of the Population Balance Equation w
 
 Highlights:
 
-* GPU-oriented implementation of numerical algorithms
-* Profile-driven performance optimization
+* GPU-oriented implementation of numerical algorithms using CUDA C++
+* Profile-driven performance optimization 
 * Scientific software development within the OpenFOAM framework
 
 ---
@@ -142,16 +143,6 @@ I'm currently working on:
 * Performance Optimization
 * Heterogeneous Computing
 * Modern C++
-
----
-
-## 📈 GitHub Statistics
-
-<!-- Replace <username> with your GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<chihtaw>\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<chihtaw>\&layout=compact\&theme=github_dark\&hide_border=true)
 
 ---
 
