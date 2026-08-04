@@ -64,7 +64,7 @@ Investigating GPU-oriented matrix assembly techniques for finite-volume CFD solv
 
 ---
 
-### GPU-Accelerated Population Balance Solver
+### GPU-Accelerated Population Balance Equation Solver
 
 **Master's Thesis**
 *Helmholtz-Zentrum Dresden-Rossendorf*
