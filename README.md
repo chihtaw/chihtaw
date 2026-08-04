@@ -106,7 +106,6 @@ Highlights:
 
 * CMake
 * Git
-* GitHub Actions
 * Continuous Integration
 * Linux
 * Docker
